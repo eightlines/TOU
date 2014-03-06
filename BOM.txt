@@ -1,0 +1,12 @@
+Partlist exported from TOUv2.sch at 3/6/2014 10:00 AM
+
+Part Value          Device         Package            Description                                             MF MPN           OC_FARNELL OC_NEWARK PACKAGE PROD_ID  SUPPLIER
+B1   3V             CR2032THM      CR2032-THRU                                                                                                                               
+C2   0.1uF          CAP0603-CAP    0603-CAP           Capacitor                                                                                                              
+JP1                 PINHD-1X4      1X04               PIN HEADER                                                                                                             
+L1   WS2812B        WS2812B        WS2812B                                                                                                                                   
+Q1   32.768KHz      CRYSTALCTS406  CTS406             CRYSTAL                                                                  unknown    unknown                            
+R1   10k            R-US_R0402     R0402              RESISTOR, American symbol                                                                                              
+U$1  DS1307SO8      DS1307SO8      SO08               I2C real-time clock with battery backup.                                                                               
+U1   ATTINY85-20SU  ATTINY85-20SU  SOIC127P798X216-8N 8-bit Microcontroller with In-System Programmable Flash    ATTINY85-20SU 1455164    58M3797   SOIC-8           Atmel   
+U3   LIGHTSENSORALS LIGHTSENSORALS ALS-PT19           Ambient Light Sensor                                                                                  IC-11836         
